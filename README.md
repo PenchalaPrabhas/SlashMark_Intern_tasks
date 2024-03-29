@@ -13,3 +13,7 @@ task2:- Number Guessing Game( In this number guessing game, players have 6 chanc
 (Slashmark_test3)=task 3
 
 task 3:-Random password generator(1t generates Random passwords using random library in python.We can use those passwords as our credential passwors)
+
+(Slashmark_test4)=task 4
+
+task 4:- Ai chatbot(I generates a chatbot using gemini ai with good Tkinter interface)
